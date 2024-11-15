@@ -1,5 +1,3 @@
-# Predicting-Student-Dropout
-
 Predicting Student Dropout: A Machine Learning Approach
 
 This project predicts which students are most likely to drop out of school based on a variety of features, including their academic performance and personal characteristics. Using the Student Performance dataset from Kaggle, this project employs machine learning classification models such as Logistic Regression and Support Vector Machine (SVM) to identify students at risk. The project involves data cleaning, model building, and evaluation.
